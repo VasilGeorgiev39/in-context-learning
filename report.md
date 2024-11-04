@@ -405,6 +405,8 @@ Remember:
 
 ## Example Chain of Thoughts
 
+Those were all randomly selected
+
 ### Semicolon
 
 #### Example 1
