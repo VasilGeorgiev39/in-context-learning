@@ -16,12 +16,15 @@ These tasks provided an interesting comparison point, as I anticipated that the 
 
 # Rules
 
- designed a set of simple, programmatically verifiable rules that reflect natural features within sentences. To avoid shifting sentences out of distribution, I refrained from making artificial modifications, such as adding punctuation, which could cause the model to rely on unintended cues like an “abrupt stop” in structure.
+I designed a set of simple, programmatically verifiable rules that reflect natural features within sentences. To avoid shifting sentences out of distribution, I refrained from making artificial modifications, such as adding punctuation, which could cause the model to rely on unintended cues like an “abrupt stop” in structure.
 
 Since I expected the model to easily learn simple rules, I made them independent so they could be combined into composite rules to increase task difficulty.
 
 The final set includes 16 rules: 14 static rules that check for specific features, and 2 dynamic rules that can modify any sentence to produce either a positive or negative example.
 
+<br />
+<br />
+<br />
 
 | Rule | Description | Notes |
 |---|---|---|
@@ -405,7 +408,7 @@ Remember:
 
 ## Example Chain of Thoughts
 
-Those were all randomly selected
+All examples were randomly selected.
 
 ### Semicolon
 
